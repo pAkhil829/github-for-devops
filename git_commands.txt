@@ -22,4 +22,3 @@ git commit git_commands.txt -m "Added"
 git status
 
 These are the new changes
-git push origin master
