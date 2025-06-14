@@ -20,4 +20,6 @@ git add git_commands.txt
 git commit git_commands -m "Added"
 git commit git_commands.txt -m "Added"
 git status
+
+These are the new changes
 git push origin master
