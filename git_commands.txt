@@ -1,0 +1,23 @@
+_2 git status
+cleargit status
+git add testing.py
+git status
+git commit testing.
+10 git status
+git commit testing.py
+git status
+git commit -m
+git commit -m "added files"
+git status
+rm testing.py
+git status
+git restore testing.py
+git remote add origin 
+git remote 
+  git push origin master
+git status
+git add git_commands.txt
+git commit git_commands -m "Added"
+git commit git_commands.txt -m "Added"
+git status
+git push origin master
